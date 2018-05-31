@@ -1,6 +1,7 @@
-*.log
-*.pot
 *.pyc
-__pycache__/
-local_settings.py
+*~
+_pycache_
+django-rest-tutorial/
 db.sqlite3
+/static
+.DS_Store
